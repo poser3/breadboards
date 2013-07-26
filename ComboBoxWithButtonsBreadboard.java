@@ -29,7 +29,6 @@ public class ComboBoxWithButtonsBreadboard extends AbstractBreadboard {
 	private JTextArea textArea_;
 	private JLabel label_;
 	private JComboBox comboBox_;
-	//private JTextField userInputTextField_;
 	private int APPLET_WIDTH = 500;
 	private int APPLET_HEIGHT = 500;
 
